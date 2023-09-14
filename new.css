@@ -1,0 +1,346 @@
+nav{
+    color: black;
+}
+.me{
+    margin-right: 200px;
+}
+.we{
+    margin-left: -400px;
+}
+.navbar-nav a{
+    color: #000;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+.container{
+    width: auto;
+    height: 50px;
+    padding: 5px;
+    background-color: white;
+}
+.lol h1{
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.lol a{
+    text-decoration: none;
+    margin-left: 200px;
+}
+.lol img{
+    width: 1200px;
+    margin-left: 30px;
+    border-radius: 7px;
+}
+.lol p{
+    margin-left: 200px;
+    margin-top: 70px;
+}
+.email{
+    margin-top: 50px;
+}
+.email a{
+    text-decoration: none;
+    color: black;
+    margin-left: 200px;
+}
+.join a{
+    text-decoration: none;
+    color: white;
+    background-color: darkcyan;
+    border-radius: 6px;
+    padding: 10px;
+}
+.gete{    
+    padding: 4px; 
+    width: 200px;
+    border-radius: 5px;
+    border: 3px solid white;
+}
+.get{
+    text-decoration: none;
+    background-color: rgb(96, 96, 228);
+    padding: 5px;
+    font-size: 20px;
+    border-radius: 7px;
+    width: 100px;
+}
+.fig{
+    margin-left: 200px;
+    margin-top: 300px;
+}
+.img {
+    margin-left: 600px;
+}
+.img-1{
+    margin-top: -300px; 
+    margin-left: 50px;
+}
+.img-2{
+    margin-left: 600px;
+}
+.img-3{
+    margin-top: -300px;
+    margin-left: 50px;
+}
+img{
+    border-radius: 10px;
+}
+.card{
+    height: 420px;
+    width: 290px;
+    box-shadow: 0 2px 8px grey;
+    border-radius: 6px;
+    margin-left: 190px;
+    margin-top: 29px;
+    background-color: white;
+    }
+ p{
+    margin-left: 20px;
+ }
+.card-1{ 
+    height: 420px;
+    width: 290px;
+    box-shadow: 0 2px 8px grey;
+    border-radius: 6px;
+    margin-left: 520px;
+    margin-top: -430px;
+    background-color: white;
+}
+.card-2{
+    height: 420px;
+    width: 290px;
+    box-shadow: 0 2px 8px grey;
+    border-radius: 6px;
+    margin-left: 840px;
+    margin-top: -430px;
+    background-color: white;       
+}
+.grey{
+    text-decoration: none;
+    border-radius: 7px;
+    background-color: lightgray;
+    color: black;
+    margin-left: 40px;
+    padding: 3px;
+    width: 100px;
+    box-shadow: none;
+    border: 1px solid rgb(243, 236, 236);
+    margin-top: -10px;
+}
+.gre{
+    text-decoration: none;
+    border-radius: 7px;
+    background-color: lightgray;
+    color: black;
+    margin-left: 40px;
+    padding: 3px;
+    width: 100px;
+    box-shadow: none;
+    border: 1px solid rgb(243, 236, 236);
+    margin-top: -4px;
+}
+.blue{
+    text-decoration: none;
+    border-radius: 7px;
+    background-color: rgb(119, 214, 231);
+    color: black;
+    margin-left: 40px;
+    padding: 3px;
+    width: 100px;
+    box-shadow: none;
+    border: 1px solid rgb(26, 123, 153);
+    margin-top: -10px;
+}
+.meete{
+    margin-top: 100px;
+}
+.meet{
+    text-decoration: none;
+    color: red;
+    margin-left: 200px;
+}
+.re{
+    margin-left:150px;
+    margin-top: 10px;
+}
+.th{
+    margin-left: 500px;
+    margin-top: -190px;
+    border-radius: 10px;
+}
+.on{
+    margin-top: -690px;
+    margin-left: 840px;
+    border-radius: 10px;
+}
+.tw{
+    margin-left: 840px;
+    margin-top: -200px;
+    border-radius: 10px;
+}
+.meete p{
+    margin-left: 170px;
+}
+.fast{
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.arew{
+    margin-left: 1100px;
+    text-decoration: none;
+}
+.black{
+    margin-top: 100px;
+    width: auto;
+    background-color: black;
+    height: 300px;
+}
+.black a{
+    display: flex;
+    color: white;
+    text-decoration: none;
+    margin-left: 150px;
+    padding: 10px;
+}
+.forre{
+    height: 60px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.carlos{
+    margin-left: 200px;
+    margin-top: -60px;
+}
+.ther{
+    margin-left: 200px;
+    font-size: 14px;
+}
+.black a:hover{
+    color: white;
+}
+.gewe{
+    padding: 4px; 
+    width: 300px;
+    border-radius: 5px;
+    border: 3px solid white;
+}
+.bloe{
+    width: 500px;
+    height: 100px;
+    margin-left: 500px;
+    margin-top: -130px;
+}
+.gew{
+    text-decoration: none;
+    padding: 3px;
+    font-size: 20px;
+    border-radius: 7px;
+    width: 90px;
+    background-color: blue;
+}
+.penbox{
+    background-color: blue;
+    height: 60px;
+    width: 60px;
+    margin-left: 100px;
+    border-radius: 10px;
+    text-align: bottom;
+    text-align: left;
+    margin-top: 10px;
+}
+.pen{
+    width: 60px;
+    height: 60px;
+    color: white;
+    margin-top: 10px;
+    align-items: center;
+    font-size: 25px;
+}
+.code{
+    background-color: green;
+    height: 60px;
+    width: 60px;
+    margin-left: 100px;
+    font-size: 25px;
+    text-align: bottom;
+    border-radius: 10px;
+    margin-top: -15px;
+}
+.cod{
+    width: 60px;
+    height: 60px;
+    color: white;
+    margin-top: 10px;
+    align-items: center;
+    font-size: 25px;
+}
+.bars{
+    background-color: red;
+    height: 60px;
+    width: 60px;
+    margin-left: 100px;
+    font-size: 25px;
+    text-align: bottom;
+    border-radius: 10px;
+    margin-top: -10px;
+}
+.bar{
+    width: 60px;
+    height: 60px;
+    color: white;
+    margin-top: 10px;
+    align-items: center;
+    font-size: 25px;
+}
+.use{
+color: white;
+font-size: 12px;
+margin-top: 60px;
+}
+.papa{
+    text-align: center;
+    color: white;
+    font-size: 12px;
+    margin-top: 170px;
+}
+.div{
+    margin-top: -260px;
+    margin-left: 280px;
+    width: 500px;
+    background-color: white;
+    width: 400px;
+    border-radius: 9px;
+}
+.logo{
+    margin-left: 400px;
+    margin-top: -100px;
+    font-size: 30px;
+}
+.logow{
+    color: white;
+}
+.insta{
+    color: white;
+}
+.tweet{
+    color: white;
+}
+.link{
+    color: white;
+}
+.mala{
+    width: 310px;
+    background-color: white;
+    border-radius: 9px;
+    border: 0.2px solid black;
+    height: 50px;
+    margin-left: 200px;
+}
+.fon{
+    margin-left: 0px;
+    font-size: 10px;
+    margin-top: 10px;
+}
